@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is **Alejandro Osorio**.
+
+
+- I'm currently working on some projects in Python.
+
+- Contact me via email at MrAlejandrojust@gmail.com
+
+
+<a href="https://github.com/MrAlejandrojust">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mralejandrojust&show_icons=true&include_all_commits=false&theme=radical&count_private=true" alt="mralejandrojust" />
+</a>
+
+<br />
+<br />
+
