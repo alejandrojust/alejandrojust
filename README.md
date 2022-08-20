@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is **Alejandro Osorio**.
 
 
-- I'm currently working on some projects in Python.
+- I'm currently working on some interesting projects.
 
 - Contact me via email at MrAlejandrojust@gmail.com
 
