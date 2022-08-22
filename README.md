@@ -20,7 +20,7 @@ My name is **Alejandro Osorio**.
 
 - I'm currently working on some interesting projects.
 
-- Contact me via email at MrAlejandrojust@gmail.com
+- Contact me via email at mralejandrojust@gmail.com
 
 
 <a href="https://github.com/MrAlejandrojust">
