@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is **Alejandro Osorio**.
 
 
-- I'm currently working on some interesting projects.
+- I'm currently working on some web projects.
 
 - Contact me via email at mralejandrojust@gmail.com
 
