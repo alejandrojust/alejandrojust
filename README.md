@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 My name is **Alejandro Osorio**.
 
 
-- I'm currently working on some web projects.
+- 🔭 I'm currently working on some web projects.
 
-- Contact me via email at mralejandrojust@gmail.com
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
+
+- 📫 How to reach me: 
+&nbsp; <a href="https://www.linkedin.com/in/alejandrojust/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://t.me/alejandrojust/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/discord.png" width="50" /></a>
 
 
 <a href="https://github.com/MrAlejandrojust">
