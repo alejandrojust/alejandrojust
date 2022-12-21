@@ -7,7 +7,7 @@ My name is **Alejandro Osorio**.
 
 - 🔭 I'm currently working on some web projects.
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning Flutter and Python.
 
 - 📫 How to reach me: &nbsp; 
   <a href="https://t.me/alejandrojust" target="_blank">
