@@ -14,6 +14,6 @@
       <img align="center" alt="gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 
 <!-- Github  Stats -->
-<a href="https://github.com/alejandrojust"><img align="center" alt="Alejandrojust's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alejandrojust&show_icons=true&include_all_commits=false&theme=radical&count_private=true"/></a>
+<a href="https://github.com/alejandrojust"><img align="center" alt="Alejandrojust's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alejandrojust&show_icons=true&include_all_commits=false&theme=radical&count_private=true&rank_icon=github"/>
  
-<a href="https://github.com/alejandrojust"><img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrojust&langs_count=5&theme=radical"/></a> 
+<a href="https://github.com/alejandrojust"><img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrojust&langs_count=5&theme=radical&layout=donut"/></a> 
