@@ -4,9 +4,9 @@
 
 My name is **Alejandro Osorio**.
 
-- 🔧 I'm currently working on web projects and automatic algorithms.
+🔧 I'm currently working on web projects and automatic algorithms.
 
-- 📫 Do you have a business? Do not hesitate to reach me: &nbsp; 
+📫 Do you have a business? Do not hesitate to reach me: &nbsp; 
   <a href="https://t.me/alejandrojust" target="_blank">
       <img align="center" alt="telegram" width="25px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/alejandrojust/" target="_blank">
