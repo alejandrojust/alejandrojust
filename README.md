@@ -2,7 +2,7 @@
 
 ### Hey👋, My name is **Alejandro Osorio**.
 
-🔧 I'm currently working on web projects and automatic algorithms.
+🔧 I'm currently working on app projects and automatic algorithms.
 
 📫 Do you have a business? Do not hesitate to reach me: &nbsp; 
   <a href="https://t.me/alejandrojust" target="_blank">
