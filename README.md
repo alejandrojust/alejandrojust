@@ -9,7 +9,7 @@
       <img align="center" alt="telegram" width="25px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/alejandrojust/" target="_blank">
       <img align="center" alt="linkedin" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
-  <a href="mailto:alejandrojust2@gmail.com" target="_blank">
+  <a href="mailto:alejandrobeariver@gmail.com" target="_blank">
       <img align="center" alt="gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 
 <!-- Github  Stats -->
