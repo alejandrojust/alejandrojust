@@ -1,12 +1,10 @@
-<!-- **alejandrojust/alejandrojust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **alejandrojust/alejandrojust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->https://github.com/alejandrojust/alejandrojust/blob/master/README.md
 
 ### Hey👋, My name is **Alejandro Osorio**.
 
-🔧 I'm currently working on app projects and automatic algorithms.
+🔧 I am currently working on web projects and developing automated algorithms.
 
 📫 Do you have a business? Do not hesitate to reach me: &nbsp; 
-  <a href="https://t.me/alejandrojust" target="_blank">
-      <img align="center" alt="telegram" width="25px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/alejandrojust/" target="_blank">
       <img align="center" alt="linkedin" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
   <a href="mailto:alejandrobeariver@gmail.com" target="_blank">
