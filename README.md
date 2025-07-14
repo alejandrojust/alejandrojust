@@ -1,6 +1,6 @@
 <!-- **alejandrojust/alejandrojust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->https://github.com/alejandrojust/alejandrojust/blob/master/README.md
 
-### Hey👋, My name is **Alejandro Osorio**.
+### Alejandro Osorio - Full Stack Developer**.
 
 🔧 I am currently working on backend projects and developing automated algorithms.
 
