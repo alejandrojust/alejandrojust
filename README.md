@@ -1,8 +1,8 @@
 <!-- **alejandrojust/alejandrojust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->https://github.com/alejandrojust/alejandrojust/blob/master/README.md
 
-### Alejandro Osorio - Full Stack Developer  
+### I'm Alejandro Osorio,
 
-Backend developer with experience building robust and scalable APIs using FastAPI and Python, with knowledge of Next.js for full-stack integration. I specialize in automation, developing trading bots, real-time data handling (WebSockets), and financial API integrations. My focus is on performance, efficiency, and clean software architecture-delivering reliable solutions that power algorithmic trading and data-driven systems.
+Software Engineer with experience building robust and scalable APIs using FastAPI and Python, with knowledge of Next.js for full-stack integration. I specialize in automation, developing trading bots, real-time data handling (WebSockets), and financial API integrations. My focus is on performance, efficiency, and clean software architecture-delivering reliable solutions that power algorithmic trading and data-driven systems.
 
 ### Contact me  
 - [LinkedIn](https://www.linkedin.com/in/alejandrojust/)  
