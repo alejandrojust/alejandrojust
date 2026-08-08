@@ -6,7 +6,7 @@ Software Engineer with experience building robust and scalable APIs using FastAP
 
 ### Contact me  
 - [LinkedIn](https://www.linkedin.com/in/alejandroway/)  
-- [Telegram](https://t.me/alejandroway)  
+- [Telegram](https://t.me/thealejandroway)  
 
 
 <!-- Github  Stats -->
